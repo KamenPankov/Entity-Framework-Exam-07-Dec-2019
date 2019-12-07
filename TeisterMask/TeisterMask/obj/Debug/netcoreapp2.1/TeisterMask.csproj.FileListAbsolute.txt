@@ -1,0 +1,10 @@
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam\TeisterMask\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
